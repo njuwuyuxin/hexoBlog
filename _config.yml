@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://njuwuyuxin.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -80,7 +80,7 @@ theme: next
 deploy:
 - type: git
   repo: https://github.com/njuwuyuxin/njuwuyuxin.github.io.git
-- type: leancloud_counter_security_sync
+  #- type: leancloud_counter_security_sync
 # lean-cloud
 leancloud_counter_security:
   enable_sync: true
