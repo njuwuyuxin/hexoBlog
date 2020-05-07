@@ -1,5 +1,5 @@
 ---
-title: 《Unity Shader 入门精要》学习笔记（一）
+title: 《Unity Shader 入门精要》学习笔记（一）—— 渲染流水线
 date: 2020-05-06 20:32:35
 categories: UnityShader学习笔记
 tags: 
