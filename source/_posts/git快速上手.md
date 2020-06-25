@@ -1,7 +1,7 @@
 ---
 title: Git快速上手
 date: 2019-04-18 14:54:47
-categories: git学习
+categories: 工具学习
 tags:
 - git
 - 版本控制
